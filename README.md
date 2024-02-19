@@ -17,3 +17,16 @@ This is a custom config for kitty terminal
 3. vim/neovim (optional)
 
 ## Installation: <a name="installation"></a>
+
+1. install kitty:  
+   ubuntu: `sudo apt install kitty -y`  
+   arch: `sudo pacman -S kitty`
+
+2. clone the repo:  
+   `git clone https://github.com/ansoniikun/KittyCustom.git`
+
+3. remove existing kitty config folder(optional)  
+   `rm -r ~/.config/kitty`
+   
+5. move kitty folder from repo to .config  
+   `mv ~/KittyCustom/kitty ~/.config`
