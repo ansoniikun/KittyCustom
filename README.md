@@ -31,3 +31,9 @@ This is a custom config for kitty terminal
    
 5. move kitty folder from repo to .config:  
    `mv ~/KittyCustom/kitty ~/.config`
+
+## Usage: <a name"usage"></a>
+
+1. set kitty as your default terminal
+   `sudo update-alternatives --config x-terminal-emulator`
+   select the number that points to kitty
