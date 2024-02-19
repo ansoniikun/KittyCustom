@@ -14,7 +14,8 @@ This is a custom config for kitty terminal
 
 1. kitty
 2. git
-3. vim/neovim (optional)
+3. neofetch
+4. vim/neovim (optional)
 
 ## Installation: <a name="installation"></a>
 
@@ -25,8 +26,8 @@ This is a custom config for kitty terminal
 2. clone the repo:  
    `git clone https://github.com/ansoniikun/KittyCustom.git`
 
-3. remove existing kitty config folder(optional)  
+3. remove existing kitty config folder(optional):  
    `rm -r ~/.config/kitty`
    
-5. move kitty folder from repo to .config  
+5. move kitty folder from repo to .config:  
    `mv ~/KittyCustom/kitty ~/.config`
